@@ -25,6 +25,7 @@
 - GitHub: [@blesson7777](https://github.com/blesson7777)
 - Email: [blessonh777@gmail.com](mailto:blessonh777@gmail.com)
 - LinkedIn: [blesson-h](https://www.linkedin.com/in/blesson-h-b3434029a/)
+- Portfolio: [blesson-h](https://blesson-portfolio-self.vercel.app/)
 
 ---
 
