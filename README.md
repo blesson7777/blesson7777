@@ -21,16 +21,16 @@ Backend Developer focused on building reliable web apps, APIs, and database-driv
 ## Experience
 
 **Web Developer Intern (PHP Developer)**  
-Inszoft Technologies | Jan 2024 - Aug 2024
+Inszoft Technologies | Jan 2025 - Jan 2026
 
-- Worked on PHP-based web applications
+- Worked on PHP And Django based web applications
 - Handled debugging and backend feature support
 - Assisted with server-side development and database tasks
 
 ## Education
 
 **Bachelor of Computer Applications (BCA)**  
-Mahatma Gandhi University, Kerala | 2020 - 2023
+Mahatma Gandhi University, Kerala | 2020 - 2024
 
 ## Connect
 
