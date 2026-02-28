@@ -1,32 +1,44 @@
-﻿<h1 align="center">Hi, I'm Blesson 👋</h1>
+# Hi, I'm Blesson
 
-<p align="center">
-  <b>Backend Developer</b> • <b>Python</b> • <b>Django</b> • <b>API Development</b> • <b>PHP</b> • <b>SQLite</b> • <b>Open to Work</b>
-</p>
+Backend Developer focused on building reliable web apps, APIs, and database-driven systems.
 
-## About Me
-- Backend developer with hands-on experience in Python, Django, and PHP.
-- Focused on building reliable web applications, REST APIs, authentication, and database workflows.
+## Highlights
+
+- Backend development with Python, Django, and PHP
+- REST API design, authentication flows, and server-side logic
+- Database workflow experience with SQLite and MySQL
+- Open to backend and web development opportunities
 
 ## Tech Stack
-- Languages: Python, PHP
-- Backend: Django
-- API: REST API Development
-- Database: SQLite, MySQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Experience
-- Inszoft Technologies - Web Developer Intern (PHP Developer), Jan 2024 to Aug 2024
-- Worked on PHP-based applications, debugging, server-side development, and database management.
+
+**Web Developer Intern (PHP Developer)**  
+Inszoft Technologies | Jan 2024 - Aug 2024
+
+- Worked on PHP-based web applications
+- Handled debugging and backend feature support
+- Assisted with server-side development and database tasks
 
 ## Education
-- Mahatma Gandhi University, Kerala - Bachelor of Computer Applications (2020 to 2023)
 
-## Connect With Me
+**Bachelor of Computer Applications (BCA)**  
+Mahatma Gandhi University, Kerala | 2020 - 2023
+
+## Connect
+
 - GitHub: [@blesson7777](https://github.com/blesson7777)
-- Email: [blessonh777@gmail.com](mailto:blessonh777@gmail.com)
 - LinkedIn: [blesson-h](https://www.linkedin.com/in/blesson-h-b3434029a/)
+- Email: [blessonh777@gmail.com](mailto:blessonh777@gmail.com)
 - Portfolio: [blesson-h](https://blesson-portfolio-self.vercel.app/)
 
 ---
 
-<p align="center">Thanks for visiting my profile.</p>
+Thanks for visiting my profile.
