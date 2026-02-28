@@ -1,29 +1,30 @@
 ﻿<h1 align="center">Hi, I'm Blesson 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>Open Source Learner</b> • <b>Building useful things</b>
+  <b>Backend Developer</b> • <b>Python</b> • <b>Django</b> • <b>API Development</b> • <b>PHP</b> • <b>SQLite</b> • <b>Open to Work</b>
 </p>
 
 ## About Me
-- I enjoy building practical software and learning modern tools.
-- I like clean code, automation, and shipping projects.
-- Currently focused on improving full-stack and DevOps skills.
+- Backend developer with hands-on experience in Python, Django, and PHP.
+- Focused on building reliable web applications, REST APIs, authentication, and database workflows.
 
 ## Tech Stack
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Express
-- Database: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+- Languages: Python, PHP
+- Backend: Django
+- API: REST API Development
+- Database: SQLite, MySQL
 
-## Current Focus
-- Building real-world projects and improving system design fundamentals.
-- Contributing more consistently to open source.
+## Experience
+- Inszoft Technologies - Web Developer Intern (PHP Developer), Jan 2024 to Aug 2024
+- Worked on PHP-based applications, debugging, server-side development, and database management.
+
+## Education
+- Mahatma Gandhi University, Kerala - Bachelor of Computer Applications (2020 to 2023)
 
 ## Connect With Me
 - GitHub: [@blesson7777](https://github.com/blesson7777)
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio URL here
+- Email: [blessonh777@gmail.com](mailto:blessonh777@gmail.com)
+- LinkedIn: [blesson-h](https://www.linkedin.com/in/blesson-h-b3434029a/)
 
 ---
 
