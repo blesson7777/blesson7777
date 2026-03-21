@@ -1,6 +1,6 @@
 # Hi, I'm Blesson
 
-Backend Developer focused on building reliable web apps,Mobile apps, APIs, and database-driven systems.
+Backend Developer focused on building reliable web apps, Mobile apps, APIs, and database-driven systems.
 
 ## Highlights
 
