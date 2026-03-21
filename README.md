@@ -4,10 +4,11 @@ Backend Developer focused on building reliable web apps, APIs, and database-driv
 
 ## Highlights
 
-- Backend development with Python, Django, and PHP
-- REST API design, authentication flows, and server-side logic
-- Database workflow experience with SQLite and MySQL
-- Open to backend and web development opportunities
+- Backend development with Python (Django) and PHP
+- Designing and building REST APIs with authentication and business logic
+- Database design and optimization using SQLite, MySQL, and PostgreSQL
+- Cross-platform mobile application development using Flutter
+- Open to backend, web, and mobile development opportunities
 
 ## Tech Stack
 
